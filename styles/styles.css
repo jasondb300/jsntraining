@@ -254,7 +254,8 @@ h2{
     font-size: 10px;
     }
     .title-text{
-    font-size: 2em;
+    font-size: 1.5em;
+        margin-right: 20px;
     }
 }
 @media (min-width:1000px){
