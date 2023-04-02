@@ -170,6 +170,11 @@ cursor: pointer;
 #title{
     text-align: center;
 }
+    
+    .navbar-brand{
+    width:18%;
+    margin-top: -20px;
+}
 
     .title-image{
         position: static;
