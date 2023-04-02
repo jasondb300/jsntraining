@@ -21,6 +21,10 @@ font-family: 'Montserrat', 'sans-serif', 'Ubuntu';
     line-height: 1.5;  
     font-weight: bold;
 word-spacing: 1px;
+        margin-left: 100px;
+}
+.sub-title-container{
+    margin-left: 100px;
 }
 
 h2{
