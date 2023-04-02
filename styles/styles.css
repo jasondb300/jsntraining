@@ -122,6 +122,12 @@ padding: 3% 2%;
    padding-left: 100px;
 }
 
+.ryan-img{
+    width:60%; 
+    margin-top: -10px;
+
+}
+
 #cta{
     text-align:center;
     background-color: rgb(142, 241, 231);
