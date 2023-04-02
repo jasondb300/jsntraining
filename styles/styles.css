@@ -79,6 +79,11 @@ height: 780px;
     padding-bottom: 5%;
 }
 
+.jsn-image{
+    width: 350px;
+    padding-top: 180px;
+}
+
 /* Testimonials */
 #testimonials{
 text-align:center;
@@ -198,8 +203,7 @@ cursor: pointer;
 }
     .jsn-image{
           width: 350px;
-    padding-left: -10px;
-    padding-top: 80px;
+    padding-top: 180px;
     }
     body{
         width:580px;
@@ -254,7 +258,8 @@ h2{
     width: 300px;
     }
     .title-container{
-        margin-top: 60px;
+     margin-right: 60px;
+    margin-top: 50px;
     }
     .sub-title-container{
         color: rgb(142, 241, 231); 
