@@ -241,6 +241,12 @@ h2{
     overflow-x: hidden; 
     scroll-behavior: smooth;
 }
+.icons-container {
+    padding: 3em;
+    word-spacing: 35px;
+    cursor: pointer;
+    font-size: 10px;
+    }
 }
 @media (min-width:1000px){
     .header-2{
