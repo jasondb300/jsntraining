@@ -194,7 +194,7 @@ cursor: pointer;
     .jsn-image{
         width:350px;
         padding-right: 20px;
-        padding-top:50px;
+        padding-top:100px;
     }
     body{
         width:580px;
@@ -246,6 +246,9 @@ h2{
     word-spacing: 35px;
     cursor: pointer;
     font-size: 10px;
+    }
+    .title-text{
+    font-size: 2em;
     }
 }
 @media (min-width:1000px){
