@@ -183,6 +183,8 @@ padding: 3% 2%;
 cursor: pointer;
 }
 
+/* PHONE DISPLAY */
+
 @media (max-width: 1000px){
 #title{
     text-align: center;
@@ -214,8 +216,9 @@ cursor: pointer;
     margin-bottom: 10px;
 }
     .jsn-image{
-                 width: 350px;
-    padding-top: 178px;
+width: 350px;
+padding-top: 68px;
+}
     }
     body{
         width:580px;
@@ -265,7 +268,8 @@ h2{
     font-size: 10px;
     }
     .title-container{
-    margin-top: 50px;
+        margin-top: 50px;
+        padding-right: 120px;	
     }
     .sub-title-container{
         color: rgb(142, 241, 231); 
@@ -277,11 +281,11 @@ padding: 80px;
 text-align: center;
 }
     .main-title-container {
-    font-family: 'Montserrat', 'sans-serif', 'Ubuntu';
-    font-size: 2rem;
-    line-height: 1.5;
-    font-weight: bold;
-    word-spacing: 1px;
+font-family: 'Montserrat', 'sans-serif', 'Ubuntu';
+font-size: 2rem;
+line-height: 1.5;
+font-weight: bold;
+ word-spacing: 1px;
 }
 }
 @media (min-width:1000px){
