@@ -15,6 +15,14 @@ h1 {  font-family: 'Montserrat', 'sans-serif', 'Ubuntu';
 word-spacing: 1px;
 }
 
+.main-title-container{
+font-family: 'Montserrat', 'sans-serif', 'Ubuntu'; 
+    font-size: 4rem;  
+    line-height: 1.5;  
+    font-weight: bold;
+word-spacing: 1px;
+}
+
 h2{
     font-family: 'Montserrat';
     font-weight: bold;
@@ -79,11 +87,10 @@ height: 780px;
     padding-bottom: 5%;
 }
 
-.jsn-image{
-    width: 350px;
-    padding-top: 180px;
+.jsn-image {
+    width: 450px;
+    padding-top: 60px;
 }
-
 /* Testimonials */
 #testimonials{
 text-align:center;
@@ -171,6 +178,7 @@ padding: 3% 2%;
    word-spacing: 35px;
 cursor: pointer;
 }
+
 @media (max-width: 1000px){
 #title{
     text-align: center;
@@ -251,11 +259,6 @@ h2{
     word-spacing: 35px;
     cursor: pointer;
     font-size: 10px;
-    }
-    h1{
- font-size: 2.5em;
-    margin-left: -85px;
-    width: 300px;
     }
     .title-container{
     margin-top: 50px;
