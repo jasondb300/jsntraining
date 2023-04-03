@@ -94,6 +94,7 @@ height: 780px;
 .jsn-image {
     width: 450px;
     padding-top: 60px;
+    margin-left: 40px;
 }
 /* Testimonials */
 #testimonials{
@@ -218,6 +219,7 @@ cursor: pointer;
     .jsn-image{
 width: 350px;
 padding-top: 188px;
+margin-left: 0px;
 }
     body{
         width:580px;
