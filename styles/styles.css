@@ -212,9 +212,9 @@ cursor: pointer;
     margin-bottom: 10px;
 }
     .jsn-image{
-width: 350px;
-padding-top: 188px;
-margin-left: 0px;
+    width: 350px;
+    padding-top: 188px;
+    margin-left: -5px;
 }
     body{
         width:580px;
