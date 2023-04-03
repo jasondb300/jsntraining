@@ -56,8 +56,9 @@ height: 780px;
 
 .navbar{
     padding-bottom: 4.5rem;
-
 }
+
+
 .navbar-brand{
     width:18%;
     margin-top: -60px;
@@ -68,6 +69,8 @@ height: 780px;
 .nav-link{
    font-size:25px;
     margin-top: -13px;
+    padding-right: 0px;
+    padding-left: 0px;
 }
 /* Download Buttons */
 .download-button{
@@ -290,6 +293,8 @@ font-weight: bold;
     .nav-link{
    font-size:15px;
     margin-top: -5px;
+        padding-right: 0px;
+    padding-left: 70px;
 }
 }
 @media (min-width:1000px){
