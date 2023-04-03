@@ -101,6 +101,10 @@ height: 780px;
     padding-top: 60px;
     margin-left: 40px;
 }
+
+.jsn-info{
+    font-size: 1.75rem;
+}
 /* Testimonials */
 
 .testimonial-image{
@@ -241,7 +245,7 @@ h2{
     display:none;
 }
 .jsn-info{
-    font-size:16px;
+    font-size:15px;
 }
 .main-container{
     background-color: black;
