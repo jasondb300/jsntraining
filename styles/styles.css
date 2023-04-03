@@ -97,12 +97,7 @@ height: 780px;
     margin-left: 40px;
 }
 /* Testimonials */
-#testimonials{
-text-align:center;
-background-color: #000000;
-color:#fff;
-height: 800px;
-}
+
 .testimonial-image{
     width:470px;
     height:400px;
