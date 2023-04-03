@@ -65,7 +65,7 @@ height: 780px;
     padding: 0 18px;
 }
 .nav-link{
-    font-size: 1.2rem;
+   font-size:25px;
     margin-top: -13px;
 }
 /* Download Buttons */
@@ -289,6 +289,10 @@ line-height: 1.5;
 font-weight: bold;
  word-spacing: 1px;
     margin-left: 0px;
+}
+    .nav-link{
+   font-size:15px;
+    margin-top: -5px;
 }
 }
 @media (min-width:1000px){
