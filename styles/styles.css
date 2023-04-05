@@ -114,6 +114,20 @@ height: 780px;
     margin-top:-20px;
 }
 
+.testimonials-heading{
+color:white; 
+    text-align: center;
+    padding-bottom: 20px; 
+    font-size: 45px;
+}
+
+.testimonials-subheading{
+color: rgb(142, 241, 231); 
+    text-align: center; 
+    padding-bottom: 20px; 
+    font-size: 25px;"   
+}
+
 #press{
     background-color: rgb(142, 241, 231);
     text-align:center;
@@ -307,6 +321,21 @@ font-weight: bold;
     padding-right: 0px;
     padding-left: 0px;
 }
+    
+    .testimonials-heading{
+color:white; 
+    text-align: center;
+    padding-bottom: 20px; 
+    font-size: 30px;
+}
+
+.testimonials-subheading{
+color: rgb(142, 241, 231); 
+    text-align: center; 
+    padding-bottom: 20px; 
+    font-size: 12px;"   
+}
+
 }
 @media (min-width:1000px){
     .header-2{
