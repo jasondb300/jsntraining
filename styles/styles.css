@@ -125,7 +125,9 @@ color:white;
 color: rgb(142, 241, 231); 
     text-align: center; 
     padding-bottom: 20px; 
-    font-size: 25px;"   
+    font-size: 25px;
+    font-weight: 300;
+    
 }
 
 #press{
@@ -333,7 +335,8 @@ color:white;
 color: rgb(142, 241, 231); 
     text-align: center; 
     padding-bottom: 20px; 
-    font-size: 12px;"   
+    font-size: 12px;
+     font-weight: 300;
 }
 }
 @media (min-width:1000px){
