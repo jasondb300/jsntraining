@@ -154,6 +154,10 @@ width:100%;
     width: 100%;
     height: 100%;
 }
+
+.card-img-3 {
+    width: 100%;
+}
 /* Price Section */
 
 #pricing{
@@ -355,8 +359,12 @@ color: white;
 width:90px;
 }
     .card-img-2 {
-    width: 51px;
+    width: 49px;
     height: 80px;
+}
+    
+.card-img-3 {
+    width: 90px;
 }
 }
 @media (min-width:1000px){
