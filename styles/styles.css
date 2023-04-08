@@ -146,6 +146,15 @@ color: rgb(142, 241, 231);
 padding:30px;
 text-align: center;
 }
+
+.card-img-1{
+width:100%;
+}
+
+.card-img-2 {
+    width: 100%;
+    height: 100%;
+}
 /* Price Section */
 
 #pricing{
@@ -342,6 +351,13 @@ color: rgb(142, 241, 231);
     padding-bottom: 20px; 
     font-size: 15px;
      font-weight: 300;
+}
+    .card-img-1{
+width:90px;
+}
+    .card-img-2 {
+    width: 55px;
+    height: 80px;
 }
 }
 @media (min-width:1000px){
