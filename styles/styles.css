@@ -180,6 +180,10 @@ padding: 3% 2%;
     margin-top: -10px;
 
 }
+.price-one{
+padding-left: 35px;
+    width: 90%;
+}
 
 #cta{
     text-align:center;
