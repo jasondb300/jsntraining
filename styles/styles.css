@@ -370,6 +370,10 @@ width:90px;
 .card-img-3 {
     width: 90px;
 }
+    .price-one{
+padding-left: 35px;
+    width: 100%;
+}
 }
 @media (min-width:1000px){
     .header-2{
